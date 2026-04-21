@@ -1,0 +1,9 @@
+{
+  "name": "Ecotrackr",
+  "description": "A global wildlife tracking system with real-time movement simulation, AI-powered species detection, and a specialized focus on Rwandan national parks.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": []
+}
